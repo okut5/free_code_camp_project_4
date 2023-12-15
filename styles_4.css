@@ -1,0 +1,12 @@
+.container {
+    display: flex; /* Aligns items horizontally */
+    align-items: center; /* Centers items vertically */
+    gap: 30px; /* Adds space between image and text */
+    width: fit-content; /* Adjusts width to fit its contents */
+    margin: 0 auto; /* Centers the container horizontally */
+}
+
+.dog-image {
+    width: 100px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+}
